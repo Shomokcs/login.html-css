@@ -1,6 +1,8 @@
-🌹 Simple Login System
-Description
-I designed a login page project using HTML and CSS as part of my Internet Technologies course 💻. The page features a beautiful Taif rose background 🌹 and provides a responsive, user-friendly experience across devices.
+🌹 Simple Login System🌹
+
+
+Description: I designed a login page project using HTML and CSS as part of my Internet Technologies course 💻. The page features a beautiful Taif rose background 🌹 
+and provides a responsive, user-friendly experience across devices.
 
 🛠️ Technologies Used
 
